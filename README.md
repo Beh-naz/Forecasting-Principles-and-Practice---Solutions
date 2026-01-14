@@ -1,4 +1,4 @@
-# Forecasting-Principles-and-Practice---Solutions
+# Forecasting-Principles-and-Practice---Solutions (Not complete)
 This repository contains my solutions to the exercises from the book [Forecasting: Principles and Practice (3rd Edition)](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos. The book provides a comprehensive introduction to time series forecasting using R with practical examples, visualizations, and exercises.
 
 ## About the Book
